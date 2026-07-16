@@ -25,7 +25,11 @@ Computer Science / Information Technology student with a strong interest in soft
 | Tools & Platforms | Git, GitHub, VS Code |
 | Currently Exploring | Backend Development, APIs, Full Stack Applications, AI/ML |
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aashnaregmi&show_icons=true&theme=tokyonight" />
+</p>
 
 ## Contact
 
