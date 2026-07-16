@@ -41,25 +41,12 @@ Computer Science / Information Technology student with a strong interest in soft
 
 ## 📬 Get In Touch
 
-<p align="left">
-<a href="mailto:regmiashna25@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aashnaregmi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashna-r-09957b324/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AshnaRegmi11)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:regmiashna25@gmail.com)
 
-<a href="https://github.com/aashnaregmi">
-  <img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-<a href="https://www.linkedin.com/in/aashna-r-09957b324/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://x.com/AshnaRegmi11">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-</p>
----
-
+--
 
 
 ## 🎯 Current Focus
