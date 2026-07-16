@@ -29,7 +29,7 @@ Computer Science / Information Technology student with a strong interest in soft
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,fastapi,php,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,react,php,pandas,mysql,dotnet,fastapi,git,github,vscode,pycharm" />
 
 </p>
 ## Contact
