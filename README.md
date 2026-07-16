@@ -32,14 +32,27 @@ Computer Science / Information Technology student with a strong interest in soft
 <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,react,php,pandas,mysql,dotnet,fastapi,git,github,vscode,pycharm" />
 
 </p>
-## Contact
+## 📫 Contact Me
 
-📧 Email: [regmiashna25@gmail.com](mailto:regmiashna25@gmail.com)
+<p align="center">
 
-🐦 Twitter/X: [AshnaRegmi11](https://x.com/AshnaRegmi11)
+<a href="mailto:regmiashna25@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
 
-💼 LinkedIn: [Aashna Regmi](https://www.linkedin.com/in/aashna-r-09957b324/)
+<a href="https://github.com/aashnaregmi">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
 
+<a href="https://www.linkedin.com/in/aashna-r-09957b324/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+<a href="https://x.com/AshnaRegmi11">
+<img src="https://skillicons.dev/icons?i=twitter" width="45"/>
+</a>
+
+</p>
 
 
 ---
