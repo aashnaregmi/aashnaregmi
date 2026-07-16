@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aashna Regmi</h1>
-<h3 align="center">CS Student | Aspiring Software Engineer | Python & React Learner</h3>
+<h3 align="center">CS Student | Aspiring Software Engineer </h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -28,7 +28,6 @@
 
 - 🎓 CS student building real-world software engineering skills
 - 🐍 Currently deep in **100 Days of Python**
-- ⚛️ Building projects with **React + FastAPI**
 - 📚 Strengthening **Data Structures & Algorithms**
 - 🌱 Learning **Backend Development, REST APIs, and AI/ML fundamentals**
 - 🤝 Open to open-source contributions & beginner-friendly collabs
