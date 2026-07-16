@@ -50,5 +50,19 @@ Computer Science / Information Technology student with a strong interest in soft
 💼 LinkedIn: [Aashna Regmi](https://www.linkedin.com/in/aashna-r-09957b324/)
 
 ---
+## 💻 Most Used Languages
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aashnaregmi&theme=transparent&hide_border=true&layout=compact)
+
+## 🔝 Top Contributed Repository
+
+![](https://github-contributor-stats.vercel.app/api?username=aashnaregmi&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
+
+## 🎯 Current Focus
+
+I'm currently challenging myself to complete **100 Days of Code** while building **100 real-world projects**. My goal is to strengthen my programming fundamentals, gain hands-on experience, and create a portfolio that reflects my growth as a software developer.
+
+📂 **Repository:**  
+🔗 https://github.com/aashnaregmi/100-Days-Of-Code-Python
 ⭐ This profile is a work in progress and will continue to evolve as I learn new technologies, build projects, and grow as a developer.
