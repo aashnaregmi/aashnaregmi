@@ -25,10 +25,10 @@ Computer Science / Information Technology student with a strong interest in soft
 | Tools & Platforms | Git, GitHub, VS Code |
 | Currently Exploring | Backend Development, APIs, Full Stack Applications, AI/ML |
 
-## 🔥 GitHub Streak
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=aashnaregmi&theme=tokyonight" />
+<img src="https://github-profile-trophy.vercel.app/?username=aashnaregmi&theme=tokyonight&row=1&column=6" />
 </p>
 
 ## Contact
