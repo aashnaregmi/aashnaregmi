@@ -46,7 +46,7 @@ Computer Science / Information Technology student with a strong interest in soft
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AshnaRegmi11)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:regmiashna25@gmail.com)
 
---
+
 
 
 ## 🎯 Current Focus
@@ -55,4 +55,5 @@ I'm currently challenging myself to complete **100 Days of Code** while building
 
 📂 **Repository:**  
 🔗 https://github.com/aashnaregmi/100-Days-Of-Code-Python
+
 ⭐ This profile is a work in progress and will continue to evolve as I learn new technologies, build projects, and grow as a developer.
