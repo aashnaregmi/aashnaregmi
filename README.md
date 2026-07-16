@@ -1,18 +1,54 @@
-# 💫 About Me:
-# Aashna Regmi<br><br>Computer Science / Information Technology student with a strong interest in software development and emerging technologies. Passionate about building practical applications, improving problem-solving skills, and continuously learning modern development practices through projects and hands-on experience.<br><br>## About Me<br><br>Hi, I'm Aashna Regmi 👋<br><br>I am a Bachelor of Information Technology  student passionate about software development, programming, and exploring new technologies. My journey in coding started with curiosity about how software and applications are built, which gradually grew into a strong interest in creating meaningful and efficient solutions.<br><br>I believe the best way to learn technology is by building projects and solving real-world problems. I enjoy breaking down complex problems, experimenting with new ideas, debugging challenges, and continuously improving my skills as a developer.<br><br>Currently, I am focusing on strengthening my programming fundamentals, exploring full-stack development, and learning modern technologies to build scalable and reliable software solutions.<br><br>## Professional Summary<br><br>🎓 Currently pursuing: Bachelor of Information Technology (BIT)<br><br>💻 Currently learning: Python, JavaScript, React, FastAPI, REST APIs, and Backend Development<br><br>🌱 Areas of interest: Full Stack Development, Web Development, Software Engineering, Data Structures & Algorithms, and Artificial Intelligence<br><br>🤝 Open to collaboration on: Academic projects, open-source contributions, and beginner-friendly developer initiatives<br><br>📈 Long-term goal: To become a skilled software engineer and contribute to building reliable, scalable, and impactful software solutions<br><br>## Technical Skills<br><br>**Programming Languages**<br>- Python<br>- JavaScript<br>- C<br>- C++<br>- PHP<br><br>**Frontend Technologies**<br>- HTML<br>- CSS<br>- JavaScript<br>- React<br><br>**Backend Technologies**<br>- FastAPI<br>- PHP<br>- REST APIs<br><br>**Database**<br>- SQL<br>- Database Management Systems<br><br>**Tools & Platforms**<br>- Git<br>- GitHub<br>- VS Code<br>- PyCharm<br><br>**Currently Exploring**<br>- Backend Development<br>- API Development<br>- Full Stack Applications<br>- Artificial Intelligence and Machine Learning<br><br>## Projects<br><br>🐍 **100 Days of Code - Python**  <br>A collection of Python projects and coding challenges focused on improving programming logic, problem-solving skills, and development practices.<br><br>🌐 **Web Development Projects**  <br>Building frontend and backend projects while learning modern development technologies and software engineering practices.<br><br>## Contact<br><br>📧 Email: [regmiashna25@gmail.com](mailto:regmiashna25@gmail.com)<br><br>💻 GitHub: [aashnaregmi](https://github.com/aashnaregmi)<br><br>🐦 Twitter/X: [AshnaRegmi11](https://x.com/AshnaRegmi11)<br><br>💼 LinkedIn: [Aashna Regmi](https://www.linkedin.com/in/aashna-r-09957b324/)<br><br>---<br><br>⭐ This profile is a work in progress and will continue to evolve as I learn new technologies, build projects, and grow as a developer.
+# Aashna Regmi
 
+Computer Science / Information Technology student with a strong interest in software development and emerging technologies. Passionate about building projects, solving problems, and continuously learning modern development practices through hands-on experience.
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AshnaRegmi11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:regmiashna25@gmail.com) 
+## 👩‍💻 Professional Summary
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+🎓 **Currently pursuing:** Bachelor of Information Technology (BIT)
 
+💻 **Currently learning:** Python, JavaScript, React, FastAPI, REST APIs, and Backend Development
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aashnaregmi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🌱 **Areas of interest:** Full Stack Development, Web Development, Software Engineering, Data Structures & Algorithms, and Artificial Intelligence
+
+🤝 **Open to collaboration on:** Academic projects, open-source contributions, and beginner-friendly developer initiatives
+
+📈 **Long-term goal:** To become a skilled software engineer and contribute to building reliable, scalable, and impactful software solutions
 
 ---
-[![](https://komarev.com/ghpvc/?username=aashnaregmi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Technical Skills
+
+| Category | Skills |
+|----------|--------|
+| **Programming Languages** | Python, JavaScript, C, C++, PHP |
+| **Frontend Technologies** | HTML, CSS, JavaScript, React |
+| **Backend Technologies** | FastAPI, PHP, REST APIs |
+| **Database** | SQL, Database Management Systems |
+| **Tools & Platforms** | Git, GitHub, VS Code, PyCharm |
+| **Currently Exploring** | Backend Development, API Development, Full Stack Applications, AI/ML |
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,react,php,fastapi,mysql,git,github,vscode,pycharm" />
+
+</p>
+
+---
+
+## 📬 Get In Touch
+
+📧 Email: [regmiashna25@gmail.com](mailto:regmiashna25@gmail.com)
+
+💻 GitHub: [aashnaregmi](https://github.com/aashnaregmi)
+
+🐦 Twitter/X: [AshnaRegmi11](https://x.com/AshnaRegmi11)
+
+💼 LinkedIn: [Aashna Regmi](https://www.linkedin.com/in/aashna-r-09957b324/)
+
+---
+
+⭐ This profile is a work in progress and will continue to evolve as I learn new technologies, build projects, and grow as a developer.
