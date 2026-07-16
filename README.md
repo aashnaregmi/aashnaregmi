@@ -25,12 +25,13 @@ Computer Science / Information Technology student with a strong interest in soft
 | Tools & Platforms | Git, GitHub, VS Code |
 | Currently Exploring | Backend Development, APIs, Full Stack Applications, AI/ML |
 
-## 🏆 GitHub Trophies
+## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aashnaregmi&theme=tokyonight&row=1&column=6" />
-</p>
 
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,fastapi,php,mysql,git,github,vscode" />
+
+</p>
 ## Contact
 
 📧 Email: [regmiashna25@gmail.com](mailto:regmiashna25@gmail.com)
