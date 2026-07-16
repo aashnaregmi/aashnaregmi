@@ -41,22 +41,31 @@ Computer Science / Information Technology student with a strong interest in soft
 
 ## 📬 Get In Touch
 
-📧 Email: [regmiashna25@gmail.com](mailto:regmiashna25@gmail.com)
+<p align="left">
+<a href="mailto:regmiashna25@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
 
-💻 GitHub: [aashnaregmi](https://github.com/aashnaregmi)
+<a href="https://github.com/aashnaregmi">
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
 
-🐦 Twitter/X: [AshnaRegmi11](https://x.com/AshnaRegmi11)
+<a href="https://www.linkedin.com/in/aashna-r-09957b324/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
 
-💼 LinkedIn: [Aashna Regmi](https://www.linkedin.com/in/aashna-r-09957b324/)
-
+<a href="https://x.com/AshnaRegmi11">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+</p>
 ---
 ## 💻 Most Used Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aashnaregmi&theme=transparent&hide_border=true&layout=compact)
-
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=aashnaregmi&theme=transparent&hide_border=true&layout=compact)
+](https://github-readme-stats.vercel.app/api/top-langs/?username=aashnaregmi&layout=compact)
 ## 🔝 Top Contributed Repository
 
-![](https://github-contributor-stats.vercel.app/api?username=aashnaregmi&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+[![](https://github-contributor-stats.vercel.app/api?username=aashnaregmi&limit=5&theme=transparent&combine_all_yearly_contributions=true)](https://github-contributor-stats.vercel.app/api?username=aashnaregmi&limit=5)
 
 
 ## 🎯 Current Focus
