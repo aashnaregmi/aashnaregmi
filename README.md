@@ -35,22 +35,27 @@ Computer Science / Information Technology student with a strong interest in soft
 
 ## 📬 Get In Touch
 
+
 <p align="center">
 
 <a href="mailto:regmiashna25@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+<img src="https://img.shields.io/badge/Email-regmiashna25%40gmail.com-red?style=for-the-badge&logo=gmail" />
 </a>
 
 <a href="https://github.com/aashnaregmi">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
+<img src="https://img.shields.io/badge/GitHub-AashnaRegmi-black?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://www.linkedin.com/in/aashna-r-09957b324/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+<img src="https://img.shields.io/badge/LinkedIn-Aashna%20Regmi-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="https://x.com/AshnaRegmi11">
-<img src="https://skillicons.dev/icons?i=twitter" width="45"/>
+<img src="https://img.shields.io/badge/X-AashnaRegmi-black?style=for-the-badge&logo=x" />
+</a>
+
+<a href="https://www.instagram.com/aashnaregmi___/">
+<img src="https://img.shields.io/badge/Instagram-aashnaregmi___-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </p>
