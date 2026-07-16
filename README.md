@@ -59,13 +59,7 @@ Computer Science / Information Technology student with a strong interest in soft
 </a>
 </p>
 ---
-## 💻 Most Used Languages
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=aashnaregmi&theme=transparent&hide_border=true&layout=compact)
-](https://github-readme-stats.vercel.app/api/top-langs/?username=aashnaregmi&layout=compact)
-## 🔝 Top Contributed Repository
-
-[![](https://github-contributor-stats.vercel.app/api?username=aashnaregmi&limit=5&theme=transparent&combine_all_yearly_contributions=true)](https://github-contributor-stats.vercel.app/api?username=aashnaregmi&limit=5)
 
 
 ## 🎯 Current Focus
